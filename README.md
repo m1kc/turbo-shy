@@ -11,7 +11,7 @@ Each page visited via Turbo Drive **must** contain the following meta tag:
 
 Otherwise, a full page reload will be triggered.
 
-In other words, Turbo Drive is a full opt-in. "Focus on 10% of pages where users spend 90% of their time" and all that.
+In other words, Turbo Drive is a per-page opt-in. "Focus on 10% of pages where users spend 90% of their time" and all that.
 
 ## Background
 
