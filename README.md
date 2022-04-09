@@ -1,5 +1,12 @@
 # turbo-shy
+
 Fork of https://turbo.hotwired.dev
+
+#### CDN
+
+```html
+<script type="module" src="https://cdn.jsdelivr.net/gh/m1kc/turbo-shy/turbo-shy-7.1.0.js"></script>
+```
 
 ## Differences from original
 
